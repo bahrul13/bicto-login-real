@@ -1,0 +1,8 @@
+.container {
+    margin: 0 auto;
+}
+.login-form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
